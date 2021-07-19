@@ -1,1 +1,1 @@
-# Desenvolvido uma aplicaçõa, com Front-End e Back-End
+# Desenvolvido uma aplicação, com Front-End e Back-End
